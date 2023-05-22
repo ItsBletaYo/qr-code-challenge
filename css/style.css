@@ -1,0 +1,43 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: rgb(62, 82, 163);
+}
+
+body {
+    background-color: rgb(185, 195, 205);
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 0.625rem;
+    max-width: 17rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+img {
+    width: 100%;
+    border-radius: 0.625rem;
+    max-height: 18rem;
+    max-width: 18rem;
+}
+
+h1 {
+    font-size: 1.375rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}

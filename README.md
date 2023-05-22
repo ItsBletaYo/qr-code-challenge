@@ -4,24 +4,28 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ## Tabela de conteúdos:
 
-- [Visão Geral](#visao-geral)
+- [Geral](#geral)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Feito com](#feito-com)
-- [Author](#author)
+- [Autor](#autor)
 
 
-## Visão Geral
+## Geral
 
 ### Screenshots
+Desktop Preview
 
 ![](screenshot.png)
+
 ![](mobile.png)
+
+Mobile Preview
 ### Links
 
-- Solução URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução URL: (https://github.com/ItsBletaYo/qr-code-challenge/)
+- Live Site URL: (https://itsbletayo.github.io/qr-code-challenge/)
 
 ## Meu processo
 
